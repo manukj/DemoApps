@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/manukj/Desktop/DEMO_APPS/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/manukj/Desktop/DEMO_APPS/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/manukj/Desktop/DEMO_APPS/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/first_screen.xml",
+        "source": "/Users/manukj/Desktop/DEMO_APPS/app/src/main/res/layout/first_screen.xml"
+    },
+    {
+        "merged": "/Users/manukj/Desktop/DEMO_APPS/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/second_screen.xml",
+        "source": "/Users/manukj/Desktop/DEMO_APPS/app/src/main/res/layout/second_screen.xml"
+    }
+]
